@@ -7,4 +7,4 @@ So I started the adventure by trying to code a random and reliable function from
 
 For the moment I found and code only one idea: 
 
--Use the time in nanoseconds and do a hack to randomize it (on a given interval (n,m)) 
+- Use the time in nanoseconds and do a hack to randomize it (on a given interval (n,m)) 
