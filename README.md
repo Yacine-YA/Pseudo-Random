@@ -7,8 +7,8 @@ So I started the adventure by trying to code a random and reliable function from
 
 For the moment I found and code only two  idea: 
 
--I) Use nano-second timestamp
+- I) Use nano-second timestamp
 
--II) Linear congruential generator (with time using)
+- II) Linear congruential generator (with time using)
 
  
